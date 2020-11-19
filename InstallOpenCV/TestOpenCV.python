@@ -1,8 +1,0 @@
-import cv2
-import os //for get you directory route 
-
-
-
-img = cv2.imread("")
-cv2.imshow("Test",)
-waitket(0)
