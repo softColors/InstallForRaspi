@@ -9,7 +9,7 @@
 
 #Install opencv 4.1.0
 
-# 라즈베리파일 업데이트와 업그레이드 시간이 좀 걸림
+# RaspberryPi Update and Upgrade
 sudo apt-get -y update && sudo apt-get -y upgrade
 
 # 개발자 환경 설치
