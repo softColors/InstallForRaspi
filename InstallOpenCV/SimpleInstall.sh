@@ -15,7 +15,6 @@ sudo apt-get -y update && sudo apt-get -y  upgrade
 # Install python3 developer environment
 sudo apt-get -y install python3-dev
 
-
 # Install opencv
 # You can config version
 pip3 install opencv-contrib-python==4.1.0.25
