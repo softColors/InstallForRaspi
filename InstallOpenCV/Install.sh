@@ -33,3 +33,4 @@ sudo apt-get install -y libhdf5-dev libhdf5-serial-dev libhdf5-103
 sudo apt-get install -y libqtgui4 libqtwebkit4 libqt4-test python3-pyqt5
 
 # Install opencv
+mkdir openCV
